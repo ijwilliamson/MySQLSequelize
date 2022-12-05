@@ -33,7 +33,7 @@ const app = async (yargsObject) => {
             {
                 title: yargsObject.title,
                 actor: yargsObject.actor,
-                director: yargsObject.director
+                directorId: yargsObject.directorId
             }
         ))
     }
